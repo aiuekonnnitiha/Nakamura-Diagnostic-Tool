@@ -1,0 +1,15 @@
+# NAKAMURA DIAGNOSTIC (Blox Fruits Edition)
+> **A specialized network & performance analyzer designed for Blox Fruits players.**
+
+## 📊 Overview
+Nakamura Diagnostic is a lightweight tool to monitor your connection integrity and hardware performance. It distinguishes between your raw network latency and the engine's reported ping to give you the most accurate data possible.
+
+## ✨ Key Features
+* **Dual-Ping Monitoring**: Tracks both `Fake Ping` (Engine) and `Data Ping` (Server) simultaneously.
+* **FPS Tracker**: Real-time frames-per-second monitoring.
+* **Automatic Logging**: Records your session data after 10 seconds of stability for performance history.
+* **Smart UI**: Minimalist draggable interface with diagnostic color coding.
+
+## ⚠️ Known Limitations (Read Before Use)
+* **Server Hop Stability**: Please note that the Server Hop feature is currently **experimental and unreliable**. It may fail to find "God Servers" due to Roblox API limitations and high player density in Blox Fruits.
+* **Utility Focus**: This script is a diagnostic tool, not a gameplay buff. Its primary benefit is providing data visibility, not increasing game performance.
